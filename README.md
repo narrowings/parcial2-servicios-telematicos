@@ -1,6 +1,6 @@
 # Segundo Parcial: Servicios Telemáticos
 
-Universidad Autónoma de Occidente, Facultad de Ingeniería. Código: 2230183. Sustentación: 6 de octubre de 2026.
+Universidad Autónoma de Occidente, Facultad de Ingeniería. Rafael Plazas, Emmanuel Solarte y José Castillo. Código: 2230183. 2230570. 2230181 Sustentación: 6 de octubre de 2026.
 
 Configuraciones usadas en el parcial: FTPS protegido por firewall UFW, DNS sobre TLS (DoT) y SFTP protegido por UFW.
 
